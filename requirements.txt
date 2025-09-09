@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-docx
+PyMuPDF
+re
+os
+BytesIO
+hashlib
+matplotlib.pyplot
